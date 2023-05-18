@@ -27,7 +27,7 @@ class Myprofile extends StatelessWidget {
               ),
               Text("Tabia Alam",
                   style: TextStyle(
-                    fontFamily: "ComicNeue",
+                    fontFamily: "Pacific-Regular",
                     fontSize: 32,
                     color: Colors.white,
                     fontWeight: (FontWeight.w900),
